@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KhCFBf9wFuqnyg0KL5ZnqxqkX24PQq+SiKFxtNcJSLE=",
+  "Source": "DotNet-Test-TTSS",
+  "BasePath": "_content/DotNet-Test-TTSS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

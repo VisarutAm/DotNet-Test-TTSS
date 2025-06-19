@@ -1,0 +1,6 @@
+@DotNet_Test_TTSS_HostAddress = http://localhost:5142
+
+GET {{DotNet_Test_TTSS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

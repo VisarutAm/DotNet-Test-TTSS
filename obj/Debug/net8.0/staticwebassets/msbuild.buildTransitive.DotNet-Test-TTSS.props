@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DotNet-Test-TTSS.props" />
+</Project>
