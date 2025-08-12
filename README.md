@@ -2,6 +2,7 @@
 
 Developed a Disaster Resource Allocation API using **ASP.NET Core**.  
 The API supports creating, reading, and deleting data for locations and trucks, as well as assigning tasks to trucks for efficient disaster response.
+
 -----
 
 ## 📄 API Documentation
